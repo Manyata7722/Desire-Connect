@@ -1,0 +1,8 @@
+{
+  "name": "Desire Connect",
+  "description": "Internal complaint, issue, request and suggestion management platform for Desire Connect - Integrated Water Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
